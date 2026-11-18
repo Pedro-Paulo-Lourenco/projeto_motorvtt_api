@@ -12,7 +12,7 @@
     "migrate:rollback": "node database/cli.js rollback"
   },
   "dependencies": {
-    "@motor-vtt/contracts": "github:Pedro-Paulo-Lourenco/vtt-contracts#v1.0.1",
+    "@motor-vtt/contracts": "github:Pedro-Paulo-Lourenco/vtt-contracts#v1.0.2",
     "bcryptjs": "^3.0.3",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.6",
